@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou o Cristiano Ramos 🖐️
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/cristiano-rodrigues-ramos-138451295)
+<a href="https://www.linkedin.com/in/cristiano-ramos-138451295/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
 ![Cristiano GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianorramos&show_icons=true&theme=dracula)
